@@ -3,36 +3,36 @@
 }
 
 {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 .container {
-	margin: 0 auto;
-	width: 1000px;
+    margin: 0 auto;
+    width: 1000px;
 }
 #navbar {
 width: 100%;
 }
 .navigation a {
-	padding-left: 20px;
+    padding-left: 20px;
 }
 .navigation{
-	display: inline-block;
-	vertical-align: middle;
-	margin-left: 15%;
-	margin-right:15%
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15%;
+    margin-right:15%
 }
 
  #navbar {
-	border: 1px solid rgb(12, 12, 12);
-	vertical-align: middle;
-	background-color: plum;
-	position: fixed;
-	top: 0;
-	right:0;
-	left:0;
-	bottom:0;
-	height: 45px;
-	margin: 0 auto;
+    border: 1px solid rgb(12, 12, 12);
+    vertical-align: middle;
+    background-color: plum;
+    position: fixed;
+    top: 0;
+    right:0;
+    left:0;
+    bottom:0;
+    height: 45px;
+    margin: 0 auto;
 }
 #navlogo {
 display: inline-block;
@@ -49,48 +49,48 @@ margin-top: 75px;
 margin-bottom: 20px;
 }
 #innovate {
-	display: inline-block;
-	text-align: center;
-	vertical-align: middle;
-	width: 49%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 49%;
 }
 
  #title {
-	text-align: center;
-	font-size: 70px;
+    text-align: center;
+    font-size: 70px;
 }
 
  #square{
-	border-radius: 10px;
-	height: 35px;
+    border-radius: 10px;
+    height: 35px;
 }
 #square:hover {
-	color: purple;
-	background-color: white;
+    color: purple;
+    background-color: white;
 }
 #innovateimg{
-	display: inline-block;
-	vertical-align: middle;
-	width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    width: 49%;
 }
 
  /* End call to action code, begin wrapper code */
 
  .upper-wrapper{
-	width: 100%;
-	vertical-align: middle;
-	text-align: left;
+    width: 100%;
+    vertical-align: middle;
+    text-align: left;
 }
 #feat, #about {
-	display: inline-block;
-	width: 47%;
-	margin-bottom: 25px;
-	margin-top: 20px;
+    display: inline-block;
+    width: 47%;
+    margin-bottom: 25px;
+    margin-top: 20px;
 }
 
  .middle-img {
-	text-align: center;
-	width: 100%;
+    text-align: center;
+    width: 100%;
 }
 /* End top-page wrapper, begin lower page wrapper code*/
 
@@ -99,16 +99,21 @@ width: 100%;
 vertical-align: middle;
 text-align: left;
 }
-#services, #product, #vison{
-	display: inline-block;
-	width: 32%;
-	margin-bottom: 25px;
-	margin-top: 20px;
+#services, #product, #vision{
+    display: inline-block;
+    width: 32%;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left:20px;
+
 }
+/
+    
 /* End lower page wrapper, begin legal code*/
 
  #legal {
-	text-align: center;
-	margin-top: 30px;
-	margin-bottom: 75px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 75px;
 } 
